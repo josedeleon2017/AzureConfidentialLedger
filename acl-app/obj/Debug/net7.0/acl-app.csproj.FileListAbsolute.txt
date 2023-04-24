@@ -1,0 +1,15 @@
+C:\Users\50241\Desktop\BlockChain_demo\acl-app\bin\Debug\net7.0\acl-app.exe
+C:\Users\50241\Desktop\BlockChain_demo\acl-app\bin\Debug\net7.0\acl-app.deps.json
+C:\Users\50241\Desktop\BlockChain_demo\acl-app\bin\Debug\net7.0\acl-app.runtimeconfig.json
+C:\Users\50241\Desktop\BlockChain_demo\acl-app\bin\Debug\net7.0\acl-app.dll
+C:\Users\50241\Desktop\BlockChain_demo\acl-app\bin\Debug\net7.0\acl-app.pdb
+C:\Users\50241\Desktop\BlockChain_demo\acl-app\obj\Debug\net7.0\acl-app.csproj.AssemblyReference.cache
+C:\Users\50241\Desktop\BlockChain_demo\acl-app\obj\Debug\net7.0\acl-app.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\50241\Desktop\BlockChain_demo\acl-app\obj\Debug\net7.0\acl-app.AssemblyInfoInputs.cache
+C:\Users\50241\Desktop\BlockChain_demo\acl-app\obj\Debug\net7.0\acl-app.AssemblyInfo.cs
+C:\Users\50241\Desktop\BlockChain_demo\acl-app\obj\Debug\net7.0\acl-app.csproj.CoreCompileInputs.cache
+C:\Users\50241\Desktop\BlockChain_demo\acl-app\obj\Debug\net7.0\acl-app.dll
+C:\Users\50241\Desktop\BlockChain_demo\acl-app\obj\Debug\net7.0\refint\acl-app.dll
+C:\Users\50241\Desktop\BlockChain_demo\acl-app\obj\Debug\net7.0\acl-app.pdb
+C:\Users\50241\Desktop\BlockChain_demo\acl-app\obj\Debug\net7.0\acl-app.genruntimeconfig.cache
+C:\Users\50241\Desktop\BlockChain_demo\acl-app\obj\Debug\net7.0\ref\acl-app.dll
